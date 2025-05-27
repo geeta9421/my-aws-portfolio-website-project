@@ -1,9 +1,17 @@
 # my-aws-portfolio-website-project
+
 My first AWS-hosted static portfolio site
 
-# My AWS Portfolio SiteThis is my first static website hosted on AWS S3.
+# My AWS Portfolio Site
+
+This is my first static website hosted on AWS S3.
 !## Live Site http://gitanjali-portfolio-123.s3-website.ap-south-1.amazonaws.com 
-## Technologies Used- HTML- CSS- AWS S3 (Static Website Hosting)
+
+## Technologies Used- 
+-HTML
+-CSS
+-AWS S3 (Static Website Hosting)
+
 ## How to Run Locally1. Open `index.html` in your browser.
  Edit files locally and re-upload to AWS or GitHub.
 
